@@ -1,4 +1,11 @@
-# 🧠 Project Portfolio - César Ruiz Flores
+- [About](#about)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
+ 
+# 🧠 Project Portfolio - César Ruiz Flores <a name = "about"></a>
 
 Welcome to my portfolio. Here you will find a collection of projects developed as part of my training in artificial intelligence, computer vision, and deep learning. Some were created in Google Colab as part of specialized courses, and others as personal projects applying machine learning and data analysis techniques.
 
