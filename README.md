@@ -46,6 +46,9 @@ Welcome to my portfolio. Here you will find a collection of projects developed a
 ### tsne_vs_pca_visualization
 - **Description**: Comparison between PCA and t-SNE for high-dimensional data visualization.
 
+## ✍️ Authors <a name = "authors"></a>
+
+- [@adiumx](https://github.com/adiumx) - Idea & Initial work
 ---
 
 ## 📫 Contact
