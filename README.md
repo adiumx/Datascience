@@ -25,6 +25,10 @@ Welcome to my portfolio. Here you will find a collection of projects developed a
 
 ## 🔍 Machine Learning and Data Analysis Projects
 
+### twitter_sentiment_movie_classifier
+- **Description**: Sentiment analysis model to classify movie-related tweets into positive, negative, neutral or irrelevant categories using natural language processing techniques like bidirectional lstm.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/twitter_sentiment_analysis/sentimentAnalysis.ipynb)
+
+
 ### creditcard_fraud_detector
 - **Description**: Classification model to detect fraudulent credit card transactions using data balancing techniques and cross-validation.
 
