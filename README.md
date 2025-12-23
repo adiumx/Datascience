@@ -33,8 +33,7 @@ Click the open in Colab button.
 
 
 ### creditcard_fraud_detector
-- **Description**: Classification model to detect fraudulent credit card transactions using data balancing techniques and cross-validation.[![Open In Colab]
-(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/creditcard_fraud_detector/autoencoder.ipynb)
+- **Description**: Classification model to detect fraudulent credit card transactions using data balancing techniques and cross-validation.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/creditcard_fraud_detector/autoencoder.ipynb)
 ### hca_students
 - **Description**: Student data analysis using hierarchical clustering for educational segmentation.
 
