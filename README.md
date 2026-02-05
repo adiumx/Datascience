@@ -29,7 +29,8 @@ Click the open in Colab button.
 ## 🔍 Machine Learning and Data Analysis Projects
 
 ### twitter_sentiment_movie_classifier <a name = "sentiment_analysis"></a>
-- **Description**: Sentiment analysis model to classify movie-related tweets into positive, negative, neutral or irrelevant categories using natural language processing techniques like bidirectional lstm.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/twitter_sentiment_analysis/sentimentAnalysis.ipynb)
+- **Description**: This project focuses on sentiment analysis of movie-related tweets and marketing feedback, classifying text into positive, negative, neutral, and irrelevant categories using advanced Natural Language Processing (NLP) techniques.
+The project evolved from a traditional deep learning approach using Bidirectional LSTM to a Transformer-based BERT model, achieving significantly higher accuracy and robustness against false positives.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/twitter_sentiment_analysis/sentimentAnalysis.ipynb)
 
 
 ### creditcard_fraud_detector
