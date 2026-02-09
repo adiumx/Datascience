@@ -32,6 +32,8 @@ Click the open in Colab button.
 - **Description**: This project focuses on sentiment analysis of movie-related tweets and marketing feedback, classifying text into positive, negative, neutral, and irrelevant categories using advanced Natural Language Processing (NLP) techniques.
 The project evolved from a traditional deep learning approach using Bidirectional LSTM to a Transformer-based BERT model, achieving significantly higher accuracy and robustness against false positives.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/twitter_sentiment_analysis/sentimentAnalysis.ipynb)
 
+## Whisper Subtitle Generator 🎬
+This project provides an automatic subtitle generation system for videos using Whisper. It allows users to specify the video file name directly from the command line (CLI), making the workflow simple and efficient.
 
 ### creditcard_fraud_detector
 - **Description**: Classification model to detect fraudulent credit card transactions using data balancing techniques and cross-validation.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/creditcard_fraud_detector/fraud_detector.ipynb)
