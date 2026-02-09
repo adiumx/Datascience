@@ -34,7 +34,7 @@ The project evolved from a traditional deep learning approach using Bidirectiona
 
 ## Whisper Subtitle Generator 🎬
 This project provides an automatic subtitle generation system for videos using Whisper. It allows users to specify the video file name directly from the command line (CLI), making the workflow simple and efficient.
-
+[Subtitle Editor Project on GitHub](https://github.com/adiumx/Datascience/tree/17ad8d7b974f79510a311bbf46f08e9ddf15e69a/subtitle_editor)
 ### creditcard_fraud_detector
 - **Description**: Classification model to detect fraudulent credit card transactions using data balancing techniques and cross-validation.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/creditcard_fraud_detector/fraud_detector.ipynb)
 ### hca_students
