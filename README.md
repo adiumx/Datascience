@@ -18,7 +18,6 @@ Click the links.
 ### Public debt CDMX
 - **Description**: Clustering-based analysis to segment public debt instruments into distinct financial risk profiles, enabling clearer comparison and prioritization beyond interest rates. The analysis uses machine learning and t-SNE visualization to support data-driven financial insights.  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/clustering/Deuda_Publica_Cdmx.ipynb)
-(https://colab.research.google.com/github/adiumx/Datascience/blob/main/creditcard_fraud_detector/fraud_detector.ipynb)
 
 ### twitter_sentiment_movie_classifier <a name = "sentiment_analysis"></a>
 - **Description**: This project focuses on sentiment analysis of movie-related tweets and marketing feedback, classifying text into positive, negative, neutral, and irrelevant categories using advanced Natural Language Processing (NLP) techniques.
