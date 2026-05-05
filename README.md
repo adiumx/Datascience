@@ -22,7 +22,6 @@ Click the links.
 ### Twitter_sentiment_movie_classifier <a name = "sentiment_analysis"></a>
 - **Description**: This project focuses on sentiment analysis of movie-related tweets and marketing feedback, classifying text into positive, negative, neutral, and irrelevant categories using advanced Natural Language Processing (NLP) techniques.
 The project evolved from a traditional deep learning approach using Bidirectional LSTM to a Transformer-based BERT model, achieving significantly higher accuracy and robustness against false positives.
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/twitter_sentiment_analysis/sentimentAnalysis.ipynb)
 
 ## Whisper Subtitle Generator 🎬
