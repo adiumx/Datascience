@@ -16,7 +16,7 @@ Click the links.
 ## 🔍 Machine Learning and Data Analysis Projects
 
 ### Public debt CDMX
-- **Description**: Clustering-based analysis to segment public debt instruments into distinct financial risk profiles, enabling clearer comparison and prioritization beyond interest rates. The analysis uses machine learning and t-SNE visualization to support data-driven financial insights.  
+- **Description**: Clustering-based analysis to segment public debt instruments into distinct financial risk profiles, enabling clearer comparison and prioritization beyond interest rates. The analysis uses machine learning and t-SNE visualization to support data-driven financial insights.  /
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/clustering/Deuda_Publica_Cdmx.ipynb)
 
 ### Twitter_sentiment_movie_classifier <a name = "sentiment_analysis"></a>
