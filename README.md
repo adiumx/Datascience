@@ -19,32 +19,33 @@ Click the links.
 - **Description**: Clustering-based analysis to segment public debt instruments into distinct financial risk profiles, enabling clearer comparison and prioritization beyond interest rates. The analysis uses machine learning and t-SNE visualization to support data-driven financial insights.  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/clustering/Deuda_Publica_Cdmx.ipynb)
 
-### twitter_sentiment_movie_classifier <a name = "sentiment_analysis"></a>
+### Twitter_sentiment_movie_classifier <a name = "sentiment_analysis"></a>
 - **Description**: This project focuses on sentiment analysis of movie-related tweets and marketing feedback, classifying text into positive, negative, neutral, and irrelevant categories using advanced Natural Language Processing (NLP) techniques.
-The project evolved from a traditional deep learning approach using Bidirectional LSTM to a Transformer-based BERT model, achieving significantly higher accuracy and robustness against false positives.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/twitter_sentiment_analysis/sentimentAnalysis.ipynb)
+The project evolved from a traditional deep learning approach using Bidirectional LSTM to a Transformer-based BERT model, achieving significantly higher accuracy and robustness against false positives.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/twitter_sentiment_analysis/sentimentAnalysis.ipynb)
 
 ## Whisper Subtitle Generator 🎬
 - **Description**: This project provides an automatic subtitle generation system for videos using Whisper. It allows users to specify the video file name directly from the command line (CLI), making the workflow simple and efficient.
 [Subtitle Editor Project on GitHub](https://github.com/adiumx/Datascience/tree/17ad8d7b974f79510a311bbf46f08e9ddf15e69a/subtitle_editor)
 
-### creditcard_fraud_detector
+### Creditcard_fraud_detector
 - **Description**: Classification model to detect fraudulent credit card transactions using data balancing techniques and cross-validation.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiumx/Datascience/blob/main/creditcard_fraud_detector/fraud_detector.ipynb)
-### hca_students
+### Hca_students
 - **Description**: Student data analysis using hierarchical clustering for educational segmentation.
 
-### k-means_wine
+### K-means_wine
 - **Description**: Application of K-means to segment wine types based on their chemical characteristics.
 
-### nmf_recommender_system
+### Nmf_recommender_system
 - **Description**: Recommendation system based on non-negative matrix factorization (NMF).
 
-### nn_breast_cancer
+### Nn_breast_cancer
 - **Description**: Neural network for classifying breast tumors as benign or malignant.
 
-### pca_visualization_cancer
+### Pca_visualization_cancer
 - **Description**: Dimensionality reduction using PCA to visualize breast cancer data.
 
-### tsne_vs_pca_visualization
+### Tsne_vs_pca_visualization
 - **Description**: Comparison between PCA and t-SNE for high-dimensional data visualization.
 ---
 ## 🎓 Specialized Course Projects
